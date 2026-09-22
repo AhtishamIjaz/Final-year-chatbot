@@ -1,0 +1,231 @@
+MEDICATION REFERENCE GUIDE
+Source: British National Formulary (BNF), WHO Model Formulary, Pakistan Drug Regulatory Authority
+
+════════════════════════════════════════
+ANALGESICS (PAIN RELIEF)
+════════════════════════════════════════
+
+PARACETAMOL (Acetaminophen) — Brand: Panadol, Calpol
+- Class: Non-opioid analgesic and antipyretic
+- Uses: Mild to moderate pain, fever
+- Adult dose: 500–1000mg every 4–6 hours; MAX 4g/day (4000mg)
+- Child dose: 10–15 mg/kg every 4–6 hours
+- Side effects: Generally well tolerated; OVERDOSE causes acute liver failure (antidote: N-acetylcysteine)
+- Contraindications: Severe liver disease
+- Special note: Safest OTC pain reliever in pregnancy, for elderly, and with kidney disease
+
+IBUPROFEN — Brand: Brufen, Nurofen, Advil
+- Class: Non-steroidal anti-inflammatory drug (NSAID)
+- Uses: Pain (especially inflammatory), fever, menstrual cramps, arthritis
+- Adult dose: 200–400mg every 6–8 hours; MAX 1200mg/day OTC (up to 2400mg/day prescribed)
+- Side effects: GI irritation/ulceration (take with food), fluid retention, kidney impairment, increased BP, cardiovascular risk
+- Contraindications: Peptic ulcer disease, severe kidney/heart/liver disease, pregnancy (especially third trimester), aspirin allergy
+- Interactions: Warfarin (increased bleeding risk), ACE inhibitors (reduced efficacy + kidney risk), lithium
+
+DICLOFENAC — Brand: Voltaren, Cataflam
+- Class: NSAID
+- Uses: Arthritis, musculoskeletal pain, dental pain, gout
+- Dose: 50mg 2–3 times daily or 75mg SR twice daily; MAX 150mg/day
+- Same precautions as ibuprofen; higher cardiovascular risk at high doses
+
+ASPIRIN — Brand: Aspro, Disprin
+- Analgesic dose: 300–600mg every 4–6 hours; MAX 4g/day
+- Anti-platelet dose: 75–100mg once daily (for stroke/MI prevention)
+- NEVER give to children under 16 (risk of Reye's syndrome)
+- Contraindications: Peptic ulcer, bleeding disorders, third trimester pregnancy
+- Drug interactions: NSAIDs, anticoagulants, methotrexate
+
+TRAMADOL — Brand: Tramal, Ultram
+- Class: Weak opioid agonist + serotonin/norepinephrine reuptake inhibitor
+- Uses: Moderate to severe pain
+- Dose: 50–100mg every 4–6 hours; MAX 400mg/day
+- Side effects: Nausea, dizziness, constipation, drowsiness, SEIZURE RISK (especially with SSRIs), dependence potential
+- Controlled substance — requires prescription
+
+════════════════════════════════════════
+ANTIBIOTICS
+════════════════════════════════════════
+IMPORTANT: Antibiotics only work against bacteria. Do NOT use for viral infections (cold, flu). Always complete the full course.
+
+AMOXICILLIN — Brand: Amoxil, Flemoxin
+- Class: Penicillin antibiotic (beta-lactam)
+- Uses: Strep throat, otitis media (ear infection), sinusitis, pneumonia, H. pylori (with other agents), UTI
+- Dose: 250–500mg every 8 hours or 500mg–1g every 12 hours; 7–10 day course
+- Side effects: Diarrhea, nausea, rash (especially if mononucleosis)
+- Contraindications: Penicillin allergy (risk of anaphylaxis — use macrolide instead)
+
+AMOXICILLIN-CLAVULANATE (Co-amoxiclav) — Brand: Augmentin
+- Amoxicillin + beta-lactamase inhibitor (clavulanate) — broader spectrum
+- Uses: RTI, dental, skin infections, UTI, animal bites
+- Dose: 625mg every 8 hours or 1g every 12 hours; take with food to reduce GI upset
+
+AZITHROMYCIN — Brand: Zithromax, Azithral
+- Class: Macrolide antibiotic
+- Uses: Community-acquired pneumonia, atypical organisms (Chlamydia, Mycoplasma, Legionella), STIs, MAC prophylaxis, typhoid (some resistance)
+- Dose: 500mg day 1, then 250mg days 2–5 (Z-pack); or 500mg once daily x 3 days
+- Side effects: GI upset (nausea, diarrhea), QT prolongation (cardiac risk), hepatotoxicity
+- Interactions: Antacids, statins, warfarin
+
+CIPROFLOXACIN — Brand: Cipro, Ciprolet
+- Class: Fluoroquinolone antibiotic
+- Uses: UTI, prostatitis, typhoid, GI infections (Salmonella, Shigella), respiratory infections
+- Dose: 250–750mg every 12 hours
+- Side effects: GI upset, photosensitivity, tendinopathy/tendon rupture (especially with steroids), QT prolongation, seizures, CNS effects (insomnia, dizziness)
+- Contraindications: Children (risk of cartilage damage), pregnancy
+- Interactions: Antacids, dairy (reduced absorption — take 2h apart), theophylline, warfarin
+
+METRONIDAZOLE — Brand: Flagyl
+- Class: Nitroimidazole antibiotic
+- Uses: Anaerobic infections, Trichomonas vaginalis, bacterial vaginosis, Giardia, Entamoeba histolytica (amoebic dysentery), H. pylori (with PPI + amoxicillin/clarithromycin), C. difficile (oral for mild disease)
+- Dose: 400–500mg every 8 hours or 2g single dose (for STIs)
+- Side effects: Metallic taste, nausea, dark urine
+- CONTRAINDICATION: Alcohol (severe Antabuse reaction — nausea, vomiting, flushing) — avoid alcohol during AND 48h after treatment
+
+TRIMETHOPRIM (or Co-trimoxazole/Bactrim — TMP-SMX)
+- Uses: Uncomplicated UTI (trimethoprim), PCP pneumonia prophylaxis/treatment, MRSA skin infections (TMP-SMX)
+- Dose: 200mg twice daily for 7 days (UTI)
+- Side effects: Rash, nausea, photosensitivity; Rare: Stevens-Johnson syndrome, marrow suppression
+
+DOXYCYCLINE — Brand: Vibramycin, Doxylin
+- Class: Tetracycline antibiotic
+- Uses: Malaria prophylaxis, Chlamydia, rickettsia, community-acquired pneumonia (atypical), acne, Lyme disease, brucellosis
+- Dose: 100mg twice daily
+- Side effects: Photosensitivity (sunscreen essential), oesophageal ulceration (take with full glass of water, remain upright 30 min), GI upset
+- Contraindications: Pregnancy, children under 12 (permanent tooth discoloration)
+
+════════════════════════════════════════
+CARDIOVASCULAR MEDICATIONS
+════════════════════════════════════════
+
+AMLODIPINE — Brand: Norvasc, Istin
+- Class: Dihydropyridine Calcium Channel Blocker
+- Uses: Hypertension, stable angina
+- Dose: 5–10mg once daily
+- Side effects: Peripheral oedema (ankle swelling), flushing, headache, palpitations
+- Note: Safe in asthma; minimal drug interactions compared to other antihypertensives
+
+LISINOPRIL / ENALAPRIL — Brand: Zestril, Vasotec
+- Class: ACE Inhibitor
+- Uses: Hypertension, heart failure, post-MI, diabetic nephropathy protection
+- Dose: Lisinopril 5–40mg once daily
+- Side effects: Dry persistent cough (in ~20% of patients — class effect), hyperkalaemia, first-dose hypotension, angioedema (rare but serious — stop immediately and seek emergency care)
+- Contraindications: Pregnancy (teratogenic), bilateral renal artery stenosis, history of angioedema
+- Monitor: Potassium and creatinine levels
+
+LOSARTAN / VALSARTAN — Brand: Cozaar, Diovan
+- Class: Angiotensin Receptor Blocker (ARB)
+- Uses: Hypertension, heart failure, diabetic nephropathy — used when ACE inhibitor not tolerated (no cough)
+- Dose: Losartan 25–100mg once daily
+- Same contraindications as ACE inhibitors except no cough side effect
+- Do NOT combine with ACE inhibitor (increased risk of hypotension, hyperkalaemia)
+
+ATENOLOL / METOPROLOL / BISOPROLOL
+- Class: Beta-adrenergic Blockers
+- Uses: Hypertension, angina, arrhythmia, heart failure (bisoprolol, carvedilol), post-MI, hyperthyroidism, anxiety (propranolol)
+- Dose: Atenolol 25–100mg once daily; Bisoprolol 1.25–10mg once daily
+- Side effects: Bradycardia, fatigue, cold extremities, impotence, depression, bronchoconstriction
+- Contraindications: Asthma/COPD (beta-1 selective somewhat safer but still caution), heart block, severe bradycardia
+- Note: Never stop suddenly — taper dose (risk of rebound hypertension/angina)
+
+FUROSEMIDE — Brand: Lasix
+- Class: Loop Diuretic
+- Uses: Heart failure, oedema, hypertension
+- Dose: 20–80mg once or twice daily
+- Side effects: Hypokalemia (low potassium — monitor), dehydration, ototoxicity (high IV doses), gout
+- Monitor: Electrolytes (potassium), kidney function, blood pressure
+
+ATORVASTATIN / ROSUVASTATIN — Brand: Lipitor, Crestor
+- Class: HMG-CoA Reductase Inhibitor (Statin)
+- Uses: High cholesterol (LDL reduction), primary and secondary cardiovascular prevention
+- Dose: Atorvastatin 10–80mg at night; Rosuvastatin 5–40mg
+- Side effects: Myopathy/rhabdomyolysis (muscle pain + weakness + dark urine — STOP and seek review), hepatotoxicity (rare), GI upset, diabetes risk
+- Interactions: Grapefruit juice (increases levels — avoid); some antibiotics (macrolides) increase toxicity risk
+- Monitor: CK levels if myopathy suspected; LFTs at baseline
+
+NITRATES (GTN / Isosorbide mononitrate)
+- Uses: Angina treatment and prevention
+- GTN sublingual: 0.5mg under tongue at onset of angina → repeat after 5 min → if 3 doses ineffective CALL 1122 (possible MI)
+- Side effects: Headache, flushing, postural hypotension
+- Contraindication: Phosphodiesterase-5 inhibitors (sildenafil/tadalafil — severe hypotension)
+
+════════════════════════════════════════
+DIABETES MEDICATIONS
+════════════════════════════════════════
+
+METFORMIN — Brand: Glucophage
+- Class: Biguanide — first-line for Type 2 DM
+- Mechanism: Reduces hepatic glucose production; improves insulin sensitivity
+- Dose: Start 500mg once or twice daily with meals; increase to 2000–2550mg/day
+- Side effects: GI (nausea, diarrhea, metallic taste) — minimized by taking with food and slow titration; Lactic acidosis (rare, serious — avoid in renal impairment eGFR <30)
+- Benefits: No hypoglycemia, weight neutral or modest loss, cardiovascular benefit
+- Hold before contrast media administration
+
+GLIBENCLAMIDE / GLIMEPIRIDE (Sulfonylureas)
+- Uses: Type 2 DM — stimulate insulin release
+- Side effects: Hypoglycemia (most significant risk), weight gain
+- Contraindications: Type 1 DM, renal/hepatic impairment, pregnancy
+
+INSULIN TYPES:
+- Rapid-acting (NovoRapid, Humalog): Onset 10–20 min, peak 1–3h, duration 3–5h — give just before meals
+- Short-acting (Actrapid, Humulin R): Onset 30 min, peak 2–4h, duration 5–8h
+- Intermediate-acting (NPH/Insulatard): Once or twice daily
+- Long-acting (Glargine/Lantus, Detemir): Once daily, no peak, provides basal coverage
+- Hypoglycemia management: Glucose gel, orange juice, sugary drink; if unconscious — glucagon injection or IV dextrose 50%
+
+════════════════════════════════════════
+RESPIRATORY MEDICATIONS
+════════════════════════════════════════
+
+SALBUTAMOL (Albuterol) — Brand: Ventolin, Salamol
+- Class: Short-Acting Beta-2 Agonist (SABA)
+- Uses: Asthma (rescue inhaler), COPD (reliever), hyperkalaemia (high dose nebulised)
+- Dose: 100–200mcg (1–2 puffs) as needed; up to 10 puffs in severe acute asthma
+- Side effects: Tremor, palpitations, tachycardia, hypokalaemia (high doses)
+- Note: Use with a spacer device for better delivery; if using more than 3 puffs/week → step up preventer therapy
+
+BECLOMETHASONE / FLUTICASONE (Inhaled Corticosteroids — ICS)
+- Uses: Persistent asthma — anti-inflammatory preventer therapy; reduces exacerbations
+- Dose: Beclomethasone 200–800mcg/day in divided doses; Fluticasone 100–500mcg BD
+- Side effects: Oral candidiasis (thrush) — rinse mouth and gargle after use; dysphonia (hoarse voice); systemic effects at high doses (adrenal suppression, osteoporosis)
+
+MONTELUKAST — Brand: Singulair
+- Class: Leukotriene Receptor Antagonist
+- Uses: Asthma (adjunct to ICS), allergic rhinitis, aspirin-exacerbated respiratory disease
+- Dose: 10mg once daily at night (adult)
+- Side effects: Headache, GI upset; Neuropsychiatric effects (depression, suicidal ideation) — FDA black box warning; monitor mental health
+
+OMEPRAZOLE / PANTOPRAZOLE (Proton Pump Inhibitors — PPIs)
+- Uses: GERD, peptic ulcer disease, H. pylori eradication, NSAID-induced ulcer prevention
+- Dose: Omeprazole 20–40mg once daily before food
+- Side effects: Headache, GI; Long-term: magnesium deficiency, C. difficile risk, potential vitamin B12 deficiency, osteoporosis (prolonged use)
+- Note: Take 30 minutes before first meal for optimal efficacy
+
+════════════════════════════════════════
+COMMON OTC MEDICATIONS IN PAKISTAN
+════════════════════════════════════════
+
+ANTIHISTAMINES:
+- Cetirizine (Zirtec) 10mg once daily — non-sedating, for allergies, urticaria
+- Loratadine (Claritine) 10mg once daily — non-sedating
+- Chlorphenamine (Piriton) 4mg every 4–6 hours — sedating, useful at night
+- Use for: Allergic rhinitis, urticaria, insect bites, allergic conjunctivitis
+
+ANTACIDS / GI:
+- ORS (Oral Rehydration Salts) — essential for diarrhea/vomiting: 1 sachet in 200mL clean water
+- Omeprazole 20mg — acid reflux
+- Antacid (Gaviscon, Maalox) — liquid antacid for immediate relief of heartburn
+- Domperidone (Motilium) 10mg before meals — nausea, gastroparesis
+- Ondansetron (Zofran) 4–8mg — powerful anti-emetic (requires prescription)
+
+TOPICAL:
+- Clotrimazole cream (Canesten) — antifungal for ringworm, athlete's foot, candidal infections
+- Hydrocortisone 1% cream — mild inflammatory skin conditions
+- Mupirocin (Bactroban) ointment — topical antibiotic for superficial skin infections
+- Zinc oxide cream — barrier cream for rash/eczema
+
+VITAMINS/MINERALS:
+- Vitamin C 500mg–1g daily — immune support, collagen synthesis
+- Vitamin D3 1000–2000 IU daily — bone health, immune function; deficiency extremely common in Pakistan
+- Folic acid 400–800mcg daily — essential before and during pregnancy (prevents neural tube defects); 5mg for high-risk
+- Ferrous sulphate 200mg 2–3 times daily — iron deficiency anemia (with vitamin C to enhance absorption)
+- Zinc 20mg daily — immune support, wound healing, diarrhea treatment in children

@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MedGPT — AI Medical Assistant Chatbot | Telemedicine</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ══════════════════ HEADER ══════════════════ -->
+  <header class="header">
+    <div class="header-brand">
+      <div class="brand-logo">
+        <i class="fas fa-heartbeat"></i>
+      </div>
+      <div class="brand-text">
+        <span class="brand-name">MedGPT</span>
+        <span class="brand-tagline">AI Medical Assistant &bull; Telemedicine</span>
+      </div>
+    </div>
+
+    <nav class="header-nav">
+      <button class="nav-btn active" onclick="switchTab('chat')" data-tab="chat">
+        <i class="fas fa-comments"></i><span>Chat</span>
+      </button>
+      <button class="nav-btn" onclick="switchTab('appointments')" data-tab="appointments">
+        <i class="fas fa-calendar-check"></i><span>Appointments</span>
+      </button>
+      <button class="nav-btn" onclick="switchTab('about')" data-tab="about">
+        <i class="fas fa-info-circle"></i><span>About</span>
+      </button>
+    </nav>
+
+    <div class="header-status">
+      <div class="status-pill">
+        <span class="status-dot"></span>
+        <span>AI Online</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ══════════════════ MAIN ══════════════════ -->
+  <main class="main">
+
+    <!-- ╔══════════════════════════════╗ -->
+    <!-- ║         CHAT TAB            ║ -->
+    <!-- ╚══════════════════════════════╝ -->
+    <div id="tab-chat" class="tab active">
+      <div class="chat-layout">
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+
+          <div class="sidebar-section">
+            <div class="sidebar-title"><i class="fas fa-bolt"></i> Quick Topics</div>
+            <div class="chip-grid">
+              <button class="chip" onclick="quickSend('I have a headache and fever. What could be the cause?')">🤒 Fever &amp; Headache</button>
+              <button class="chip" onclick="quickSend('I am having chest pain and difficulty breathing. What should I do?')">💔 Chest Pain</button>
+              <button class="chip" onclick="quickSend('Tell me about diabetes symptoms and how to manage it.')">🩸 Diabetes</button>
+              <button class="chip" onclick="quickSend('What are the symptoms and treatment for high blood pressure?')">❤️ Hypertension</button>
+              <button class="chip" onclick="quickSend('I have had a persistent cough for 2 weeks. What could it be?')">😷 Persistent Cough</button>
+              <button class="chip" onclick="quickSend('What medications are commonly used for anxiety disorders?')">💊 Anxiety Meds</button>
+              <button class="chip" onclick="quickSend('Give me first aid instructions for burns.')">🔥 First Aid: Burns</button>
+              <button class="chip" onclick="quickSend('I feel very tired and dizzy all the time. What can cause this?')">😴 Fatigue &amp; Dizziness</button>
+              <button class="chip" onclick="quickSend('What are the symptoms of dengue fever and how is it treated?')">🦟 Dengue Fever</button>
+              <button class="chip" onclick="quickSend('How do I perform CPR on an adult?')">🫀 CPR Guide</button>
+            </div>
+          </div>
+
+          <div class="sidebar-section">
+            <div class="sidebar-title"><i class="fas fa-phone-alt"></i> Emergency Contacts</div>
+            <div class="emergency-card red">
+              <div class="emg-num">1122</div>
+              <div class="emg-label">Pakistan Rescue</div>
+            </div>
+            <div class="emergency-card orange">
+              <div class="emg-num">1033</div>
+              <div class="emg-label">Edhi Foundation</div>
+            </div>
+            <div class="emergency-card blue">
+              <div class="emg-num">115</div>
+              <div class="emg-label">Chhipa Welfare</div>
+            </div>
+          </div>
+
+          <div class="sidebar-section">
+            <div class="disclaimer-box">
+              <i class="fas fa-shield-alt disclaimer-icon"></i>
+              <p><strong>Medical Disclaimer</strong><br />
+              MedGPT provides general health information only and is <em>not</em> a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified physician.</p>
+            </div>
+          </div>
+
+        </aside>
+
+        <!-- Chat Main -->
+        <section class="chat-main">
+          <div class="chat-messages" id="chatMessages">
+
+            <!-- Welcome Message -->
+            <div class="msg ai-msg">
+              <div class="msg-avatar ai-av">
+                <i class="fas fa-robot"></i>
+              </div>
+              <div class="msg-body">
+                <div class="msg-bubble">
+                  <p>👋 Hello! I'm <strong>MedGPT</strong>, your AI Medical Assistant powered by <span class="tag-rag">RAG + LLM</span> technology.</p>
+                  <p>I can help you with:</p>
+                  <ul>
+                    <li>🔍 <strong>Symptom Analysis</strong> — Describe symptoms for a preliminary assessment</li>
+                    <li>💊 <strong>Medication Info</strong> — Ask about medicines, dosages &amp; side effects</li>
+                    <li>📅 <strong>Appointments</strong> — Guide you on scheduling a consultation</li>
+                    <li>🩺 <strong>Health Education</strong> — Learn about diseases, prevention &amp; wellness</li>
+                    <li>🚨 <strong>First Aid</strong> — Step-by-step emergency guidance</li>
+                  </ul>
+                  <p>How can I assist you today?</p>
+                </div>
+                <div class="msg-meta">
+                  <span class="msg-time">Just now</span>
+                  <span class="rag-badge"><i class="fas fa-shield-alt"></i> RAG-Powered &amp; Verified</span>
+                </div>
+              </div>
+            </div>
+
+          </div><!-- /chatMessages -->
+
+          <!-- Typing Indicator -->
+          <div class="typing-indicator" id="typingIndicator" style="display:none;">
+            <div class="msg-avatar ai-av sm">
+              <i class="fas fa-robot"></i>
+            </div>
+            <div class="typing-bubble">
+              <div class="dots"><span></span><span></span><span></span></div>
+              <span class="typing-label">MedGPT is analyzing…</span>
+            </div>
+          </div>
+
+          <!-- Input Area -->
+          <div class="input-area">
+            <div class="input-row">
+              <textarea
+                id="userInput"
+                placeholder="Describe your symptoms or ask a medical question…"
+                rows="1"
+                onkeydown="handleKey(event)"
+                oninput="autoResize(this)"
+              ></textarea>
+              <button class="send-btn" id="sendBtn" onclick="sendMessage()">
+                <i class="fas fa-paper-plane"></i>
+              </button>
+            </div>
+            <div class="input-hint">
+              <span><i class="fas fa-lock"></i> Private &amp; Secure</span>
+              <span>Enter = Send &nbsp;·&nbsp; Shift+Enter = New Line</span>
+            </div>
+          </div>
+
+        </section><!-- /chat-main -->
+      </div><!-- /chat-layout -->
+    </div><!-- /tab-chat -->
+
+
+    <!-- ╔══════════════════════════════╗ -->
+    <!-- ║     APPOINTMENTS TAB        ║ -->
+    <!-- ╚══════════════════════════════╝ -->
+    <div id="tab-appointments" class="tab">
+      <div class="appt-layout">
+
+        <!-- Booking Form -->
+        <div class="card form-card">
+          <div class="card-head">
+            <div class="card-head-icon"><i class="fas fa-calendar-plus"></i></div>
+            <h2>Book an Appointment</h2>
+          </div>
+
+          <form id="apptForm" onsubmit="bookAppointment(event)">
+            <div class="form-grid">
+
+              <div class="form-group">
+                <label><i class="fas fa-user"></i> Patient Name</label>
+                <input type="text" id="patientName" placeholder="Your full name" required />
+              </div>
+
+              <div class="form-group">
+                <label><i class="fas fa-phone"></i> Phone Number</label>
+                <input type="tel" id="patientPhone" placeholder="e.g. 0300-1234567" />
+              </div>
+
+              <div class="form-group">
+                <label><i class="fas fa-user-md"></i> Select Specialist</label>
+                <select id="doctorSelect" required>
+                  <option value="">— Choose a Doctor —</option>
+                  <option>Dr. Ahmed Khan — General Physician</option>
+                  <option>Dr. Sara Ali — Cardiologist</option>
+                  <option>Dr. Usman Malik — Neurologist</option>
+                  <option>Dr. Fatima Shah — Dermatologist</option>
+                  <option>Dr. Bilal Hassan — Pulmonologist</option>
+                  <option>Dr. Ayesha Noor — Gynaecologist</option>
+                  <option>Dr. Zubair Ahmed — Orthopaedic Surgeon</option>
+                  <option>Dr. Hina Khalid — Psychiatrist</option>
+                  <option>Dr. Tariq Mehmood — Endocrinologist</option>
+                  <option>Dr. Sana Iqbal — Paediatrician</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label><i class="fas fa-calendar"></i> Preferred Date</label>
+                <input type="date" id="apptDate" required />
+              </div>
+
+              <div class="form-group">
+                <label><i class="fas fa-clock"></i> Time Slot</label>
+                <select id="apptTime" required>
+                  <option value="">— Select Time —</option>
+                  <option>09:00 AM</option><option>10:00 AM</option>
+                  <option>11:00 AM</option><option>12:00 PM</option>
+                  <option>02:00 PM</option><option>03:00 PM</option>
+                  <option>04:00 PM</option><option>05:00 PM</option>
+                </select>
+              </div>
+
+              <div class="form-group full">
+                <label><i class="fas fa-notes-medical"></i> Reason for Visit</label>
+                <textarea id="visitReason" rows="3" placeholder="Briefly describe your symptoms or purpose of visit…" required></textarea>
+              </div>
+
+            </div>
+
+            <button type="submit" class="btn-primary">
+              <i class="fas fa-check-circle"></i> Confirm Appointment
+            </button>
+          </form>
+        </div>
+
+        <!-- Appointments List -->
+        <div class="card list-card">
+          <div class="card-head">
+            <div class="card-head-icon"><i class="fas fa-list-alt"></i></div>
+            <h2>My Appointments</h2>
+            <button class="icon-btn" onclick="loadAppointments()" title="Refresh">
+              <i class="fas fa-sync-alt"></i>
+            </button>
+          </div>
+          <div id="apptList">
+            <div class="empty-state">
+              <i class="fas fa-calendar-times"></i>
+              <p>No appointments yet</p>
+              <span>Book your first appointment using the form</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div><!-- /tab-appointments -->
+
+
+    <!-- ╔══════════════════════════════╗ -->
+    <!-- ║        ABOUT TAB            ║ -->
+    <!-- ╚══════════════════════════════╝ -->
+    <div id="tab-about" class="tab">
+      <div class="about-wrap">
+
+        <div class="about-hero">
+          <div class="about-hero-icon"><i class="fas fa-heartbeat"></i></div>
+          <h1>AI Medical Assistant Chatbot</h1>
+          <h2>Telemedicine Platform Powered by RAG + LLM</h2>
+          <p class="about-university">
+            <i class="fas fa-university"></i>
+            University of Azad Jammu &amp; Kashmir, Muzaffarabad<br/>
+            Department of Computer Science &amp; Information Technology
+          </p>
+          <div class="about-group-badge">Undergraduate Final Year Project &bull; Group 02</div>
+        </div>
+
+        <div class="feature-grid">
+          <div class="feature-card">
+            <div class="feat-icon blue"><i class="fas fa-brain"></i></div>
+            <h3>RAG-Powered Intelligence</h3>
+            <p>Every response is grounded in a curated medical knowledge base (WHO, CDC, NICE guidelines) using Retrieval-Augmented Generation, ensuring accuracy and verifiability.</p>
+          </div>
+          <div class="feature-card">
+            <div class="feat-icon green"><i class="fas fa-shield-alt"></i></div>
+            <h3>Verifiable &amp; Cited</h3>
+            <p>AI responses include source citations so patients and doctors can trace information back to trusted medical references — critical for clinical acceptance.</p>
+          </div>
+          <div class="feature-card">
+            <div class="feat-icon purple"><i class="fas fa-stethoscope"></i></div>
+            <h3>Intelligent Symptom Analysis</h3>
+            <p>Conducts conversational symptom checks with follow-up questions, providing preliminary assessments based on retrieved clinical guidelines.</p>
+          </div>
+          <div class="feature-card">
+            <div class="feat-icon teal"><i class="fas fa-calendar-check"></i></div>
+            <h3>Appointment Scheduling</h3>
+            <p>Natural language-guided appointment booking with specialist selection, date/time management, and appointment tracking system.</p>
+          </div>
+          <div class="feature-card">
+            <div class="feat-icon orange"><i class="fas fa-pills"></i></div>
+            <h3>Medication Management</h3>
+            <p>Comprehensive drug information including dosages, side effects, contraindications, and interactions from the curated pharmaceutical database.</p>
+          </div>
+          <div class="feature-card">
+            <div class="feat-icon red"><i class="fas fa-globe"></i></div>
+            <h3>Multilingual Support</h3>
+            <p>Leverages LLM's inherent translation capabilities for seamless multi-language support, making telemedicine accessible to all patients.</p>
+          </div>
+        </div>
+
+        <div class="tech-section">
+          <h3>Technology Stack</h3>
+          <div class="tech-grid">
+            <div class="tech-chip"><i class="fab fa-python"></i> Python 3.11</div>
+            <div class="tech-chip"><i class="fas fa-server"></i> FastAPI</div>
+            <div class="tech-chip"><i class="fas fa-link"></i> LangChain</div>
+            <div class="tech-chip"><i class="fas fa-database"></i> ChromaDB</div>
+            <div class="tech-chip"><i class="fas fa-robot"></i> Groq / Llama 3.1</div>
+            <div class="tech-chip"><i class="fab fa-google"></i> Gemini Embeddings</div>
+            <div class="tech-chip"><i class="fab fa-js"></i> JavaScript ES6+</div>
+            <div class="tech-chip"><i class="fab fa-html5"></i> HTML5 / CSS3</div>
+          </div>
+
+          <div class="methodology-box">
+            <h4><i class="fas fa-project-diagram"></i> RAG Pipeline Architecture</h4>
+            <div class="pipeline-steps">
+              <div class="pipe-step">
+                <div class="pipe-num">1</div>
+                <div class="pipe-content"><strong>Indexing</strong><br/>Medical texts chunked, embedded via Gemini, stored in ChromaDB vector store</div>
+              </div>
+              <div class="pipe-arrow"><i class="fas fa-chevron-right"></i></div>
+              <div class="pipe-step">
+                <div class="pipe-num">2</div>
+                <div class="pipe-content"><strong>Retrieval</strong><br/>User query embedded, similarity search returns top-K relevant medical chunks</div>
+              </div>
+              <div class="pipe-arrow"><i class="fas fa-chevron-right"></i></div>
+              <div class="pipe-step">
+                <div class="pipe-num">3</div>
+                <div class="pipe-content"><strong>Augmentation</strong><br/>Retrieved chunks + user query combined into enriched prompt for the LLM</div>
+              </div>
+              <div class="pipe-arrow"><i class="fas fa-chevron-right"></i></div>
+              <div class="pipe-step">
+                <div class="pipe-num">4</div>
+                <div class="pipe-content"><strong>Generation</strong><br/>Groq LLM (Llama 3.1 70B) generates a verified, cited medical response</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="team-section">
+          <h3>Project Team</h3>
+          <div class="team-row">
+            <div class="team-card">
+              <div class="team-avatar"><i class="fas fa-user-graduate"></i></div>
+              <h4>Menahil Khalid</h4>
+              <p>Roll No. 02</p>
+            </div>
+            <div class="team-card">
+              <div class="team-avatar"><i class="fas fa-user-graduate"></i></div>
+              <h4>Rimsha Basharat</h4>
+              <p>Roll No. 12</p>
+            </div>
+          </div>
+          <div class="supervisor-row">
+            <div class="supervisor-card">
+              <i class="fas fa-chalkboard-teacher"></i>
+              <div>
+                <p><strong>Project Supervisor</strong></p>
+                <p>Department of Computer Science &amp; IT</p>
+                <p>University of Azad Jammu &amp; Kashmir</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div><!-- /tab-about -->
+
+  </main>
+
+  <!-- ══════════════════ TOAST ══════════════════ -->
+  <div id="toast" class="toast"></div>
+
+  <!-- ══════════════════ SUCCESS MODAL ══════════════════ -->
+  <div id="modal" class="modal-overlay" style="display:none;" onclick="closeModal(event)">
+    <div class="modal-box">
+      <div class="modal-icon"><i class="fas fa-check-circle"></i></div>
+      <h2>Appointment Confirmed!</h2>
+      <p id="modalMsg"></p>
+      <button class="btn-primary" onclick="closeModalBtn()">Done</button>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

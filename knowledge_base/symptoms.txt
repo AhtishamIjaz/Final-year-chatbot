@@ -1,0 +1,314 @@
+SYMPTOMS AND PRELIMINARY ASSESSMENT GUIDE
+Source: WHO Clinical Guidelines, CDC Medical Reference, NICE Guidelines
+
+════════════════════════════════════════
+HEADACHE
+════════════════════════════════════════
+A headache is pain or discomfort in the head, scalp, or neck.
+
+TENSION HEADACHE (Most Common):
+- Symptoms: Dull, aching head pain; feeling of tightness/pressure across forehead, sides, or back of head; tenderness in scalp, neck, shoulders
+- Causes: Stress, anxiety, poor posture, eye strain, dehydration, lack of sleep
+- Treatment: Rest, hydration, OTC pain relievers (paracetamol 500-1000mg, ibuprofen 400mg), relaxation techniques
+- Duration: 30 minutes to several hours
+
+MIGRAINE:
+- Symptoms: Severe throbbing/pulsing pain (usually one side), nausea, vomiting, sensitivity to light and sound, visual aura (flashes, zigzag lines)
+- Triggers: Hormonal changes, certain foods (chocolate, caffeine, aged cheese, alcohol), stress, bright lights, strong smells, sleep changes
+- Duration: 4–72 hours
+- Treatment: Prescribed triptans, rest in dark quiet room, cold/warm compress, anti-nausea medication
+- Seek emergency care if: Worst headache of your life (thunderclap), sudden severe onset, headache with fever + stiff neck (meningitis sign), after head injury, with confusion or vision changes
+
+CLUSTER HEADACHE:
+- Severe pain around one eye, occurring in clusters (several times per day)
+- Accompanied by red eye, nasal congestion on affected side
+- Requires specialist treatment
+
+════════════════════════════════════════
+FEVER (PYREXIA)
+════════════════════════════════════════
+Normal body temperature: 36.1–37.2°C (97–99°F)
+Fever defined as: ≥38°C (100.4°F)
+
+CAUSES:
+- Viral infections (influenza, COVID-19, dengue)
+- Bacterial infections (pneumonia, UTI, sepsis)
+- Inflammatory conditions (rheumatoid arthritis)
+- Heat exhaustion or heat stroke
+- Certain medications
+
+GRADING:
+- Low-grade fever: 37.3–38°C
+- Moderate fever: 38–39°C  
+- High fever: 39–40°C
+- Hyperpyrexia (Emergency): >40°C (104°F)
+
+HOME MANAGEMENT:
+- Rest and plenty of fluids (water, ORS, clear soups)
+- Paracetamol (acetaminophen) — 500-1000mg every 4-6 hours (adults)
+- Ibuprofen — 400-600mg every 6-8 hours with food (not for children under 12 months)
+- Light clothing and bedding; cool environment
+- Tepid sponging if very high fever
+- Do NOT give aspirin to children (risk of Reye's syndrome)
+
+EMERGENCY — SEEK IMMEDIATE CARE:
+- Temperature above 40°C (104°F) in adults
+- Any fever in infant under 3 months
+- Fever with severe headache + stiff neck + sensitivity to light (meningitis)
+- Fever with difficulty breathing
+- Fever with purple/red rash that doesn't fade under pressure (meningococcal)
+- Fever with confusion or altered consciousness
+- Fever lasting more than 5 days without improvement
+
+════════════════════════════════════════
+COUGH
+════════════════════════════════════════
+
+TYPES:
+- Dry (non-productive) cough: No mucus. Common in viral infections, asthma, allergies, COVID-19, GERD
+- Productive (wet) cough: Produces mucus/phlegm. Common in chest infections, bronchitis, pneumonia
+- Chronic cough: Lasting >8 weeks. Needs medical evaluation (GERD, asthma, post-nasal drip, medications like ACE inhibitors)
+
+COMMON CAUSES:
+1. Common cold / upper respiratory tract infection
+2. Influenza
+3. COVID-19
+4. Asthma (especially night cough)
+5. Allergies / hay fever
+6. Gastroesophageal reflux disease (GERD)
+7. Postnasal drip from sinusitis
+8. Smoking
+9. Tuberculosis (chronic cough with blood)
+
+HOME MANAGEMENT:
+- Stay well hydrated
+- Honey and warm water or lemon tea (soothe throat)
+- Cough drops or lozenges
+- Steam inhalation for congestion
+- Saline nasal rinse for postnasal drip
+- Humidifier in bedroom
+- Avoid irritants: smoke, dust, cold air
+
+SEEK MEDICAL ATTENTION IF:
+- Cough lasting more than 3 weeks
+- Coughing up blood (haemoptysis) — URGENT
+- Cough with shortness of breath or wheezing
+- Cough with high fever (>39°C)
+- Cough with significant weight loss (TB risk)
+- Cough in smoker over 40 (lung cancer screening)
+
+════════════════════════════════════════
+CHEST PAIN
+════════════════════════════════════════
+⚠️ MEDICAL EMERGENCY — Chest pain can indicate a life-threatening condition.
+Call emergency services (1122) immediately if you have chest pain.
+
+CARDIAC CAUSES (Emergency):
+- Heart Attack (Myocardial Infarction): Crushing/squeezing chest pain, radiating to left arm, jaw, neck or back; sweating; nausea; shortness of breath; sense of doom
+- Angina: Chest tightness triggered by exertion, relieved by rest. Requires immediate medical attention
+- Aortic Dissection: Sudden severe tearing pain radiating to back
+
+NON-CARDIAC CAUSES (Still require evaluation):
+- Costochondritis: Sharp pain worsened by pressing on chest wall
+- Pleurisy: Sharp pain worsened by deep breathing or coughing (lung lining inflammation)
+- Pneumonia / Pulmonary Embolism: Chest pain with fever/shortness of breath
+- GERD / Acid Reflux: Burning pain, often after meals, worsened lying down
+- Anxiety / Panic Attack: Tight chest with rapid heart rate, shortness of breath, dizziness
+- Muscle strain: Pain worsened by movement, tenderness on palpation
+
+NEVER IGNORE CHEST PAIN. Always seek immediate medical evaluation.
+
+════════════════════════════════════════
+SHORTNESS OF BREATH (DYSPNOEA)
+════════════════════════════════════════
+EMERGENCY — Call 1122 immediately if:
+- Sudden severe difficulty breathing
+- Shortness of breath with chest pain (heart attack)
+- Blue-tinged lips or fingertips (cyanosis) — critical oxygen deprivation
+- Cannot speak full sentences
+- Breathing rate >30/minute in adults
+
+CAUSES:
+- Asthma attack
+- Anaphylaxis (severe allergic reaction)
+- Pneumonia
+- Pulmonary embolism (blood clot in lungs)
+- Heart failure
+- COVID-19
+- Panic attack / anxiety
+- Severe anemia
+- COPD exacerbation
+
+════════════════════════════════════════
+ABDOMINAL (STOMACH) PAIN
+════════════════════════════════════════
+Location clues:
+- Right upper quadrant: Liver, gallbladder (gallstones, hepatitis)
+- Left upper quadrant: Stomach, spleen (gastritis, pancreatitis)
+- Right lower quadrant: Appendix ⚠️ (appendicitis), ovary (women)
+- Left lower quadrant: Colon (diverticulitis), ovary (women)
+- Central/umbilical: Early appendicitis, intestinal obstruction
+- Diffuse: Gastroenteritis, IBS, peritonitis
+
+EMERGENCY SIGNS:
+- Sudden severe "worst pain ever" — possible ruptured organ or aneurysm
+- Rigid/board-like abdomen — peritonitis
+- Pain migrating from navel to lower right + fever + nausea (appendicitis)
+- Vomiting blood or passing black/tarry stool
+- Signs of shock (pale, sweating, low blood pressure, rapid pulse)
+
+COMMON NON-EMERGENCY CAUSES:
+- Indigestion/gas: Bloating, belching, mild discomfort after eating
+- Gastroenteritis: Cramping with diarrhea and/or vomiting
+- Irritable Bowel Syndrome (IBS): Chronic intermittent pain with altered bowel habits
+- Menstrual cramps: Lower abdominal cramping during menstruation
+- Kidney stones: Severe flank pain radiating to groin, blood in urine
+
+════════════════════════════════════════
+NAUSEA AND VOMITING
+════════════════════════════════════════
+CAUSES: Food poisoning, gastroenteritis, pregnancy (morning sickness), motion sickness, migraine, medications, anxiety, inner ear problems
+
+HOME MANAGEMENT:
+- Small, frequent sips of clear fluids (water, ORS, ginger ale)
+- BRAT diet when tolerated: Bananas, Rice, Applesauce, Toast
+- Ginger (tea or capsules) shown effective for nausea
+- Avoid solid food until nausea settles
+- Anti-nausea medications: metoclopramide, ondansetron (prescribed)
+
+SEEK MEDICAL CARE IF:
+- Vomiting persistently for more than 24 hours
+- Signs of dehydration: dry mouth, decreased urine output, dizziness
+- Blood in vomit (haematemesis) — URGENT
+- Severe abdominal pain with vomiting
+- Vomiting after head injury (concussion)
+
+════════════════════════════════════════
+DIARRHEA
+════════════════════════════════════════
+Defined as 3+ loose/watery stools per day.
+
+CAUSES: Viral gastroenteritis (most common), bacterial food poisoning, parasites, antibiotics (C. diff), IBS, IBD (Crohn's, Ulcerative Colitis), food intolerance (lactose, gluten)
+
+MANAGEMENT:
+- Oral Rehydration Solution (ORS) — critical to prevent dehydration
+- BRAT diet
+- Probiotics (Lactobacillus) can reduce duration
+- Avoid dairy, fatty foods, high-fiber foods, caffeine during acute episode
+- Antibiotics only if bacterial cause confirmed (e.g., cholera, Salmonella)
+
+SEEK MEDICAL CARE IF:
+- Diarrhea lasting more than 2 days in adults
+- Blood or mucus in stool
+- Severe abdominal pain
+- High fever (>38.5°C)
+- Signs of severe dehydration (no urination >8 hours, confusion)
+- Recent travel to developing country (traveler's diarrhea — possible parasite)
+
+════════════════════════════════════════
+SORE THROAT (PHARYNGITIS)
+════════════════════════════════════════
+VIRAL (Most common — ~70%): Cold, flu, mononucleosis. No antibiotics needed. Self-limiting.
+
+BACTERIAL — STREP THROAT (Group A Streptococcus):
+Signs suggesting strep (see a doctor for throat swab):
+- Severe throat pain + difficulty swallowing
+- White patches/pus on tonsils
+- Fever >38°C
+- Swollen tender lymph nodes in neck
+- ABSENCE of cough (cough suggests viral cause)
+Treatment: Amoxicillin or penicillin 10-day course (must complete to prevent rheumatic fever)
+
+HOME REMEDIES:
+- Warm salt water gargle (1/4 tsp salt in 8oz warm water)
+- Honey and warm lemon water
+- Throat lozenges containing benzocaine or menthol
+- Cold fluids or ice chips (soothing)
+- Paracetamol or ibuprofen for pain and fever
+
+════════════════════════════════════════
+FATIGUE AND WEAKNESS
+════════════════════════════════════════
+CAUSES:
+Medical: Anemia, hypothyroidism, diabetes, heart failure, kidney/liver disease, cancer, infections (TB, hepatitis, HIV), sleep apnea, vitamin D/B12 deficiency
+Mental health: Depression, anxiety, burnout
+Lifestyle: Poor sleep, physical inactivity, poor nutrition, dehydration, excessive alcohol
+
+WHEN TO SEE A DOCTOR:
+- Fatigue lasting more than 2 weeks without obvious cause
+- Fatigue with significant unexplained weight loss
+- Extreme fatigue with shortness of breath or chest pain
+- Fatigue with fever, night sweats (TB, malignancy)
+- Fatigue with depression or suicidal thoughts
+
+ASSESSMENT: Doctor may check CBC, thyroid function (TSH), blood glucose, vitamin levels, kidney/liver function
+
+════════════════════════════════════════
+DIZZINESS AND VERTIGO
+════════════════════════════════════════
+TYPES:
+- Vertigo: Sensation of spinning (inner ear — BPPV, labyrinthitis, Meniere's disease)
+- Presyncope: Feeling faint, about to pass out (low blood pressure, dehydration, anemia, cardiac)
+- Disequilibrium: Unsteadiness when walking (neurological)
+
+EMERGENCY — Possible stroke — FAST test:
+- F: Face drooping
+- A: Arm weakness
+- S: Speech difficulty
+- T: Time to call 1122
+
+Emergency also if dizziness is accompanied by:
+- Sudden severe headache
+- Double vision or loss of vision
+- Difficulty swallowing or speaking
+- Chest pain or palpitations
+
+BENIGN POSITIONAL VERTIGO (BPPV):
+- Spinning sensation triggered by head position changes
+- Epley manoeuvre (repositioning technique) is highly effective
+- Usually resolves within weeks
+
+════════════════════════════════════════
+SKIN RASH
+════════════════════════════════════════
+TYPES:
+- Urticaria (Hives): Itchy raised welts, allergic reaction — antihistamines
+- Eczema (Atopic Dermatitis): Chronic itchy inflamed skin — moisturizers, topical steroids
+- Contact Dermatitis: Rash from skin contact with allergen/irritant
+- Psoriasis: Scaly silvery plaques — specialist treatment required
+- Chickenpox: Blistering spots with fever — Varicella virus
+- Shingles: Painful blistering rash along nerve distribution — antiviral treatment
+- Ringworm (Tinea): Circular scaling patch — antifungal cream
+- Measles: Red spots + fever + cough + runny nose + conjunctivitis
+
+EMERGENCY:
+- Rash with difficulty breathing / throat swelling — anaphylaxis (1122 immediately, use adrenaline if available)
+- Purple/red non-blanching spots (meningococcal disease — medical emergency)
+
+════════════════════════════════════════
+JOINT AND BACK PAIN
+════════════════════════════════════════
+BACK PAIN — Common causes:
+- Muscle or ligament strain (most common — rest + physiotherapy)
+- Herniated/slipped disc — pain radiating down leg (sciatica)
+- Arthritis
+- Spinal stenosis
+- Kidney problems (flank pain)
+
+Back pain RED FLAGS (seek urgent care):
+- Pain after significant trauma
+- Loss of bladder or bowel control (cauda equina — EMERGENCY)
+- Numbness or tingling in both legs
+- Unexplained weight loss + back pain (possible malignancy)
+- Fever with back pain (spinal infection)
+- Pain not improving after 6 weeks of conservative treatment
+
+JOINT PAIN — Common causes:
+- Osteoarthritis: Wear-and-tear, stiffness worse in morning and after rest
+- Rheumatoid arthritis: Symmetrical joint inflammation, morning stiffness >1 hour
+- Gout: Sudden severe pain, redness, warmth — usually big toe
+- Septic arthritis: Infected joint — EMERGENCY (fever + hot swollen joint)
+
+URINARY SYMPTOMS:
+Urinary Tract Infection (UTI): Burning urination, frequency, urgency, cloudy/smelly urine, pelvic pain. More common in women. Treatment: antibiotics + increased fluid intake.
+Kidney Stones: Severe colicky flank pain radiating to groin, blood in urine, nausea. Pain is one of the most severe experienced.

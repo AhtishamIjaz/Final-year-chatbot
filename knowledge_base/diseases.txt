@@ -1,0 +1,330 @@
+MEDICAL CONDITIONS AND DISEASE REFERENCE GUIDE
+Source: WHO, CDC, NICE, UpToDate Clinical Guidelines
+
+════════════════════════════════════════
+DIABETES MELLITUS
+════════════════════════════════════════
+Chronic metabolic disorder characterized by elevated blood glucose (hyperglycemia) due to defects in insulin secretion, insulin action, or both.
+
+TYPES:
+- Type 1 DM: Autoimmune destruction of pancreatic beta-cells → absolute insulin deficiency. Usually onset in childhood/young adults. Requires lifelong insulin.
+- Type 2 DM: Insulin resistance + progressive beta-cell failure. Most common (>90%). Strongly linked to obesity and lifestyle.
+- Gestational Diabetes: Occurs during pregnancy. Increases risk of Type 2 in future.
+- MODY (Maturity-Onset Diabetes of the Young): Rare genetic form.
+
+SYMPTOMS:
+- Classic "3 Polys": Polyuria (frequent urination), Polydipsia (excessive thirst), Polyphagia (excessive hunger)
+- Unexplained weight loss
+- Blurred vision (osmotic lens changes)
+- Fatigue and weakness
+- Slow-healing wounds / recurrent infections
+- Numbness or tingling in feet (peripheral neuropathy)
+
+DIAGNOSTIC CRITERIA (ADA):
+- Fasting blood glucose ≥126 mg/dL (7.0 mmol/L) on two occasions
+- Random blood glucose ≥200 mg/dL (11.1 mmol/L) with symptoms
+- HbA1c ≥6.5% (48 mmol/mol)
+- 2-hour OGTT glucose ≥200 mg/dL
+
+NORMAL VALUES:
+- Fasting: 70–100 mg/dL
+- Post-meal (2h): <140 mg/dL
+- HbA1c: <5.7% (normal); 5.7–6.4% (prediabetes); ≥6.5% (diabetes)
+
+MANAGEMENT:
+- Lifestyle: Medical nutrition therapy (low GI diet), physical activity 150 min/week aerobic
+- Medications for Type 2: Metformin (first-line), SGLT-2 inhibitors, GLP-1 agonists, DPP-4 inhibitors, sulfonylureas
+- Insulin: Essential for Type 1; used in Type 2 when oral agents insufficient
+- Regular monitoring: Blood glucose, HbA1c (every 3 months), kidney function, eye exams, foot exams
+
+COMPLICATIONS:
+- Microvascular: Nephropathy (kidney disease), Retinopathy (eye disease), Neuropathy (nerve damage)
+- Macrovascular: Coronary artery disease, Stroke, Peripheral arterial disease
+- Diabetic foot ulcers and amputation (preventable with foot care)
+- Diabetic Ketoacidosis (DKA): Emergency in Type 1 — fruity breath, vomiting, confusion
+
+════════════════════════════════════════
+HYPERTENSION (HIGH BLOOD PRESSURE)
+════════════════════════════════════════
+Persistent elevation of systemic arterial blood pressure. Often called "the silent killer" — usually asymptomatic until complications arise.
+
+CLASSIFICATION (ACC/AHA 2017):
+- Normal: <120/<80 mmHg
+- Elevated: 120–129/<80 mmHg
+- Stage 1 HTN: 130–139 / 80–89 mmHg
+- Stage 2 HTN: ≥140 / ≥90 mmHg
+- Hypertensive Crisis: >180/120 mmHg → EMERGENCY
+
+SYMPTOMS (usually none until severe):
+- Headaches (usually occipital, morning)
+- Visual disturbances
+- Nausea
+- Hypertensive urgency/emergency: Severe headache, confusion, chest pain, shortness of breath, vision changes
+
+PRIMARY HYPERTENSION (Essential): No identifiable cause. ~95% of cases. Linked to genetics, obesity, high salt intake, stress, sedentary lifestyle.
+
+SECONDARY HYPERTENSION: Identifiable cause — renal artery stenosis, primary hyperaldosteronism, obstructive sleep apnea, medications (NSAIDs, oral contraceptives)
+
+MANAGEMENT:
+Lifestyle (all stages): DASH diet (low sodium <2.3g/day, rich in fruits/vegetables/low-fat dairy), weight loss (5kg loss ≈ 4 mmHg reduction), exercise 30 min/day, limit alcohol, quit smoking, stress management
+
+Medications:
+- First-line: ACE inhibitors (enalapril, lisinopril), ARBs (losartan, valsartan), Calcium Channel Blockers (amlodipine), Thiazide diuretics (hydrochlorothiazide)
+- Second-line: Beta-blockers, alpha-blockers, spironolactone
+- Special populations: Diabetics prefer ACE inhibitor/ARB; Black patients prefer CCB + diuretic
+
+COMPLICATIONS: Stroke, MI, Heart failure, CKD, Hypertensive retinopathy, Aortic dissection
+
+════════════════════════════════════════
+INFLUENZA (FLU)
+════════════════════════════════════════
+Acute viral respiratory illness caused by Influenza A, B, or C viruses. Seasonally epidemic.
+
+SYMPTOMS (sudden onset):
+- High fever (38–40°C) with chills
+- Severe myalgia (muscle aches) — prominent feature distinguishing from cold
+- Headache
+- Fatigue (can be profound)
+- Dry cough
+- Sore throat
+- Rhinitis (runny/stuffy nose)
+- Some: GI symptoms (nausea, vomiting, diarrhea) — more common in children
+
+DIFFERENCES FROM COMMON COLD:
+- Flu: Sudden severe onset, high fever, severe aches, extreme fatigue
+- Cold: Gradual onset, low/no fever, mild aches, runny nose dominant
+
+TREATMENT:
+- Antivirals: Oseltamivir (Tamiflu) 75mg BD x 5 days — best if started within 48h of symptoms. Reduces duration by ~1 day and severity. Especially indicated in high-risk groups.
+- Supportive: Rest, fluids, paracetamol for fever, saline nasal rinse
+
+HIGH-RISK GROUPS (complications including pneumonia):
+- Age >65 or <5 years
+- Pregnant women
+- Chronic conditions (diabetes, heart disease, asthma, immunocompromised)
+
+PREVENTION: Annual influenza vaccine (efficacy 40–60%, varies by season); hand hygiene; cough etiquette; mask wearing
+
+SEEK URGENT CARE: Difficulty breathing, persistent chest pain, confusion, persistent vomiting, severe or progressive symptoms
+
+════════════════════════════════════════
+ASTHMA
+════════════════════════════════════════
+Chronic inflammatory disease of airways causing recurrent episodes of wheezing, breathlessness, chest tightness, and cough.
+
+PATHOPHYSIOLOGY: Airway inflammation → bronchospasm + mucus hypersecretion → reversible airflow obstruction
+
+SYMPTOMS:
+- Wheezing (high-pitched whistling sound during breathing)
+- Shortness of breath
+- Chest tightness
+- Cough (especially nocturnal or early morning — diagnostic clue)
+- Symptoms often triggered by specific factors; reversible between attacks
+
+TRIGGERS: Allergens (house dust mites, pollen, animal dander, mold), exercise, cold air, respiratory infections, smoke, air pollution, NSAIDs/aspirin, beta-blockers, emotional stress, food additives (sulphites)
+
+SEVERITY CLASSIFICATION:
+- Mild intermittent: Symptoms ≤2 days/week, nocturnal ≤2x/month
+- Mild persistent: >2 days/week but not daily, nocturnal 3-4x/month
+- Moderate persistent: Daily symptoms, nocturnal >1x/week
+- Severe persistent: Continuous symptoms, frequent nocturnal, limited activity
+
+TREATMENT (GINA Guidelines):
+- Reliever (SABA): Salbutamol (albuterol) inhaler — short-acting bronchodilator for acute relief
+- Preventer (ICS): Inhaled corticosteroids (beclomethasone, fluticasone) — reduce inflammation, prevent attacks
+- Long-acting: LABA (salmeterol), LAMA (tiotropium), Leukotriene receptor antagonists (montelukast)
+- Step-up / step-down therapy based on control
+
+ACUTE ASTHMA ATTACK — MANAGEMENT:
+1. Sit upright, stay calm, loosen tight clothing
+2. Use salbutamol inhaler via spacer — 4 puffs, wait 1 min, repeat up to 10 puffs
+3. If no improvement after 10 minutes → CALL 1122
+4. Continue salbutamol (4 puffs every 4 minutes) until ambulance arrives
+5. Oxygen if available
+6. Oral prednisolone if prescribed
+
+DANGER SIGNS (life-threatening attack): Inability to speak, exhaustion, silent chest (no wheeze heard — air movement too little), blue lips, confusion, SpO2 <92%
+
+════════════════════════════════════════
+PNEUMONIA
+════════════════════════════════════════
+Inflammation of lung tissue (alveoli) caused by infection.
+
+CAUSES: Bacterial (Streptococcus pneumoniae most common), Viral (influenza, RSV, COVID-19), Atypical bacteria (Mycoplasma — "walking pneumonia"), Fungal (Pneumocystis — in immunocompromised)
+
+SYMPTOMS:
+- Productive cough with purulent sputum (yellow/green/rust-colored)
+- High fever with rigors (shaking chills)
+- Pleuritic chest pain (sharp pain worsened by breathing)
+- Shortness of breath
+- Decreased oxygen saturation
+- Confusion (especially elderly — may present atypically)
+
+SEVERITY — CURB-65 Score (1 point each): Confusion, Urea >7mmol/L, Respiratory rate ≥30, Blood pressure <90 systolic, Age ≥65
+- 0–1: Outpatient treatment
+- 2: Inpatient consideration
+- ≥3: ICU consideration
+
+TREATMENT:
+- Community-acquired pneumonia: Amoxicillin ± macrolide (azithromycin) outpatient; IV antibiotics inpatient
+- Rest, fluids, oxygen if hypoxic
+- Hospitalization for severe cases
+
+PREVENTION: Pneumococcal vaccine (PCV13, PPSV23); Influenza vaccine; Smoking cessation
+
+════════════════════════════════════════
+COVID-19 (SARS-CoV-2)
+════════════════════════════════════════
+SYMPTOMS: Fever, cough, shortness of breath, fatigue, body aches, headache, loss of taste/smell, sore throat, runny nose, nausea/diarrhea
+
+EMERGENCY SYMPTOMS → Call 1122:
+- Persistent chest pain or pressure
+- Confusion or difficulty staying awake
+- Trouble breathing (SpO2 <94%)
+- Bluish lips or face
+
+MANAGEMENT: Isolation, rest, fluids, paracetamol for fever. Antivirals (nirmatrelvir/ritonavir, remdesivir) for high-risk patients. Dexamethasone for severe disease requiring oxygen.
+
+PREVENTION: Vaccination series + boosters; Masks (high-risk settings); Hand hygiene; Ventilation.
+
+════════════════════════════════════════
+DENGUE FEVER
+════════════════════════════════════════
+Viral disease transmitted by Aedes aegypti mosquitoes. Endemic in Pakistan.
+
+PHASES:
+1. Febrile phase (days 1-3): High fever (39-40°C), severe headache, retro-orbital pain, myalgia, arthralgia ("breakbone fever"), flushed face
+2. Critical phase (days 4-6): Fever may drop — WARNING PHASE — plasma leakage occurs. Dengue warning signs appear.
+3. Recovery phase (days 7-10): Reabsorption, fluid overload risk
+
+DENGUE WARNING SIGNS (Hospitalize immediately):
+- Severe abdominal pain or tenderness
+- Persistent vomiting
+- Clinical fluid accumulation (ascites, pleural effusion)
+- Mucosal bleeding
+- Lethargy or restlessness
+- Liver enlargement >2cm
+- Rapid decline in platelet count
+
+SEVERE DENGUE (Emergency): Severe plasma leakage → shock; Severe bleeding; Severe organ impairment (liver, CNS, kidneys)
+
+MANAGEMENT:
+- No specific antiviral
+- PARACETAMOL ONLY for fever — NOT ibuprofen or aspirin (increases bleeding risk)
+- Aggressive oral/IV hydration
+- Monitor platelet count and haematocrit daily during critical phase
+- Platelet transfusion only if count <10,000 or significant bleeding
+
+PREVENTION: Eliminate Aedes mosquito breeding sites (stagnant water); Window screens; DEET repellent; Long-sleeved clothing; Indoor spraying
+
+════════════════════════════════════════
+MALARIA
+════════════════════════════════════════
+Parasitic disease caused by Plasmodium species; transmitted by female Anopheles mosquitoes.
+
+SPECIES IN PAKISTAN: P. vivax (most common), P. falciparum (most dangerous)
+
+SYMPTOMS (appear 10-15 days post-bite):
+- Classic triad: Fever, Chills (rigors), Sweating — may be cyclical (every 48 or 72 hours)
+- Headache, myalgia, nausea/vomiting
+- Splenomegaly with chronic infection
+
+SEVERE MALARIA (P. falciparum — Emergency):
+- Cerebral malaria: Altered consciousness, seizures, coma
+- Severe anemia (Hb <7 g/dL)
+- Acute respiratory distress
+- Hypoglycemia, metabolic acidosis
+- Acute kidney injury (blackwater fever — haemoglobinuria)
+
+DIAGNOSIS: Rapid Diagnostic Test (RDT) + Blood film (thick and thin smear). Parasite density determines severity.
+
+TREATMENT:
+- Uncomplicated P. vivax: Chloroquine + Primaquine (must check G6PD status first)
+- Uncomplicated P. falciparum: Artemisinin-based Combination Therapy (ACT) — artemether + lumefantrine
+- Severe malaria: IV artesunate (preferred over quinine)
+
+PREVENTION: Insecticide-treated bed nets (ITNs); Indoor residual spraying; Chemoprophylaxis for travelers; Elimination of breeding sites; Prompt diagnosis and treatment
+
+════════════════════════════════════════
+TUBERCULOSIS (TB)
+════════════════════════════════════════
+Caused by Mycobacterium tuberculosis. Pakistan is a high-burden country (5th globally).
+
+TYPES:
+- Latent TB infection (LTBI): Bacteria dormant, no symptoms, not contagious but can reactivate
+- Active TB disease: Bacteria multiplying, symptomatic, contagious
+
+PULMONARY TB SYMPTOMS (most common):
+- Persistent cough ≥2 weeks (productive, blood-stained — haemoptysis)
+- Low-grade fever (afternoon rise)
+- Drenching night sweats
+- Unexplained weight loss
+- Chest pain
+- Fatigue
+
+EXTRA-PULMONARY TB: Can affect lymph nodes (scrofula), spine (Pott's disease), meninges (TB meningitis), genitourinary system, abdomen
+
+DIAGNOSIS: Sputum smear microscopy, GeneXpert MTB/RIF, culture, CXR (upper lobe infiltrates/cavities), Mantoux test/IGRA (latent TB)
+
+TREATMENT — DOTS Therapy:
+- Intensive phase (2 months): RHEZ — Rifampicin + Isoniazid + Ethambutol + Pyrazinamide
+- Continuation phase (4 months): RH — Rifampicin + Isoniazid
+- Drug-resistant TB (MDR-TB, XDR-TB) requires specialist management with second-line drugs (18-24 months)
+- Never miss doses — incomplete treatment causes drug resistance
+
+PREVENTION: BCG vaccination at birth; Early case detection and treatment; Proper ventilation; Contact tracing
+
+════════════════════════════════════════
+CARDIOVASCULAR DISEASES
+════════════════════════════════════════
+Leading cause of death worldwide.
+
+CORONARY ARTERY DISEASE (CAD):
+- Atherosclerotic plaque narrows coronary arteries → reduced blood flow to heart muscle
+- Stable Angina: Chest pain on exertion, relieved by rest/nitrates
+- Unstable Angina/NSTEMI/STEMI: Acute coronary syndromes — EMERGENCY
+
+HEART ATTACK RECOGNITION — EMERGENCY:
+Symptoms: Central crushing chest pain; Radiation to left arm, jaw, neck, or back; Sweating (diaphoresis); Nausea/vomiting; Shortness of breath; Sense of impending doom
+CALL 1122 IMMEDIATELY — Time is muscle (door-to-balloon <90 min target)
+- Give aspirin 300mg if available and no allergy
+- Position patient comfortably; reassure
+
+HEART FAILURE:
+- Heart cannot pump sufficient blood. Symptoms: Breathlessness (exertional, orthopnoea, PND), peripheral oedema (ankle swelling), fatigue, reduced exercise tolerance
+- Management: Diuretics, ACE inhibitors, beta-blockers, spironolactone, SGLT-2 inhibitors, cardiac resynchronization therapy
+
+STROKE — BRAIN ATTACK — EMERGENCY:
+FAST acronym: Face drooping + Arm weakness + Speech difficulty → Time to call 1122
+Every minute counts — IV thrombolysis within 4.5 hours; Mechanical thrombectomy within 24 hours for large vessel occlusion
+
+════════════════════════════════════════
+MENTAL HEALTH CONDITIONS
+════════════════════════════════════════
+
+DEPRESSION (Major Depressive Disorder):
+- Symptoms: Persistent low mood ≥2 weeks, anhedonia (loss of pleasure), fatigue, sleep disturbance (insomnia or hypersomnia), appetite change, poor concentration, feelings of worthlessness/guilt, psychomotor changes, recurrent thoughts of death
+- PHQ-9 score used for screening and severity
+- Treatment: CBT (first-line for mild-moderate); SSRIs (fluoxetine, sertraline, escitalopram) for moderate-severe; combined therapy for severe
+- Crisis: If suicidal ideation — immediate mental health crisis line or emergency department
+
+ANXIETY DISORDERS:
+- GAD: Excessive, uncontrollable worry about multiple domains; must be ≥6 months
+- Panic Disorder: Recurrent unexpected panic attacks — sudden intense fear with palpitations, trembling, shortness of breath, feeling of unreality, fear of dying
+- Social Anxiety Disorder: Fear of social situations; significant impairment
+- Treatment: CBT (gold standard); SSRIs/SNRIs; benzodiazepines (short-term); buspirone for GAD; exposure therapy
+
+════════════════════════════════════════
+ANEMIA
+════════════════════════════════════════
+Reduced RBC count or hemoglobin concentration, impairing oxygen delivery.
+
+Normal Hb: Males ≥13 g/dL; Females ≥12 g/dL; Pregnant ≥11 g/dL
+
+TYPES:
+- Iron-deficiency anemia (most common globally): Microcytic, hypochromic. Causes: Poor dietary intake, blood loss (menstruation, GI bleed, hookworm), malabsorption. Treatment: Ferrous sulphate 200mg TDS + vitamin C.
+- Vitamin B12 / Folate deficiency (Megaloblastic anemia): Macrocytic. Causes: Poor diet (vegans), malabsorption, metformin use. Treatment: IM B12 injections or high-dose oral; Folic acid 5mg.
+- Hemolytic anemia: Premature RBC destruction — sickle cell disease, thalassemia, G6PD deficiency, autoimmune
+- Aplastic anemia: Bone marrow failure — specialist management
+
+SYMPTOMS: Fatigue, weakness, pallor (pale skin/conjunctiva/nailbeds), breathlessness on exertion, palpitations, dizziness, cold hands/feet, koilonychia (iron deficiency), glossitis, angular stomatitis

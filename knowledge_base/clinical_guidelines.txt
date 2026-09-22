@@ -1,0 +1,226 @@
+CLINICAL GUIDELINES AND PREVENTIVE HEALTH RECOMMENDATIONS
+Source: WHO Global Health Guidelines, CDC Clinical Recommendations, NICE Guidelines, Pakistan Ministry of Health
+
+════════════════════════════════════════
+PREVENTIVE HEALTH AND SCREENING
+════════════════════════════════════════
+
+ROUTINE HEALTH SCREENINGS BY AGE:
+
+ALL ADULTS:
+- Blood pressure: Measured at every medical visit (≥18 years); screen for hypertension
+- Blood glucose (diabetes screening): Every 3 years for adults 45+ or earlier if overweight with risk factors
+- Cholesterol (lipid profile): Starting at age 20; every 4–6 years if normal
+- BMI/Weight assessment: At every medical visit
+- Dental checkup: Every 6–12 months
+- Eye examination: Every 1–2 years (more frequent with diabetes or family history of glaucoma)
+- Hearing assessment: Every 10 years from age 18, every 3 years from age 50
+
+WOMEN-SPECIFIC SCREENINGS:
+- Cervical cancer (Pap smear): Every 3 years from age 21–65; or every 5 years with HPV co-test (21–65)
+- Breast cancer (mammogram): Every 1–2 years from age 40–74 (discuss with doctor)
+- Bone density (DEXA scan): Women 65+ or postmenopausal women with risk factors
+- Anemia screening: During pregnancy (all trimesters)
+- Gestational diabetes: All pregnant women at 24–28 weeks (OGTT)
+
+MEN-SPECIFIC SCREENINGS:
+- Prostate cancer (PSA): Discuss with doctor at age 50 (earlier if high risk or African-American)
+- Testicular self-examination: Monthly from late teens
+
+CHILDREN AND ADOLESCENTS:
+- Growth monitoring and developmental milestones
+- Vision and hearing screening at school entry
+- Anemia screening: At 9 and 18 months
+- Blood pressure: From age 3 at every well-child visit
+- Dental: First visit by age 1
+
+════════════════════════════════════════
+VACCINATION SCHEDULE (EXPANDED PROGRAMME ON IMMUNIZATION — EPI Pakistan)
+════════════════════════════════════════
+Birth: BCG (TB), OPV-0 (Polio), Hepatitis B (1st dose)
+6 weeks: Penta 1 (DTwP-HepB-Hib), OPV-1, IPV, Pneumococcal (PCV) 1, Rotavirus 1
+10 weeks: Penta 2, OPV-2, PCV 2, Rotavirus 2
+14 weeks: Penta 3, OPV-3, IPV 2, PCV 3, Rotavirus 3
+9 months: Measles-Rubella (MR) 1
+15 months: MR 2, Varicella 1
+18 months: Penta booster, OPV booster
+
+Additional vaccines (private sector):
+- Typhoid conjugate vaccine (TCV): Single dose from 9 months
+- Meningococcal vaccine: Recommended for Hajj/Umrah pilgrims
+- HPV vaccine: 2 doses for girls 9–14 years (cervical cancer prevention)
+- Hepatitis A: 2 doses
+- Annual influenza vaccine: Recommended for elderly, pregnant, chronically ill, healthcare workers
+
+ADULT VACCINES:
+- Tetanus-diphtheria booster: Every 10 years
+- Influenza: Annually (especially elderly, pregnant, immunocompromised)
+- Pneumococcal (PCV13, PPSV23): Adults 65+; younger adults with chronic conditions
+- Hepatitis B: For unvaccinated adults; healthcare workers
+- COVID-19: As per current NCOC/WHO guidelines
+
+════════════════════════════════════════
+NUTRITION AND DIETARY GUIDELINES
+════════════════════════════════════════
+WHO recommends a HEALTHY DIET for all adults:
+
+MACRONUTRIENTS:
+- Fruits and vegetables: At least 400g (5 portions) per day; reduces risk of NCDs
+- Whole grains: At least half of grain intake should be whole grain (brown rice, whole wheat, oats)
+- Protein: Varied sources — legumes (lentils, chickpeas), lean meats, fish, eggs, nuts
+- Healthy fats: Unsaturated fats (olive oil, canola, avocado, nuts, fish) preferred over saturated fats
+
+REDUCE:
+- Free sugars: <10% of total energy intake (<50g/day for adults); ideally <5% for health benefits
+- Sodium (salt): <5g per day (<2g sodium) to reduce hypertension risk; avoid processed foods, use herbs instead
+- Saturated fats: <10% of total energy; replace with unsaturated fats
+- Trans fats: <1% of total energy; eliminate industrially produced trans fats (partially hydrogenated oils)
+
+SPECIAL DIETARY CONSIDERATIONS:
+- Diabetes: Low glycaemic index (GI) foods; control carbohydrate portions; consistent meal timing; limit sugary drinks
+- Hypertension: DASH diet — high in fruits, vegetables, low-fat dairy, whole grains, lean protein; low in sodium, red meat, sweets
+- Iron deficiency: Iron-rich foods (red meat, lentils, dark green vegetables) with vitamin C (orange, tomato) to enhance absorption; avoid tea/coffee immediately after iron-rich meals
+- Vitamin D deficiency (very common in Pakistan): Sun exposure 15–20 minutes midday on arms/face; dietary sources (fatty fish, fortified milk); supplementation if deficient
+
+════════════════════════════════════════
+PHYSICAL ACTIVITY GUIDELINES (WHO 2020)
+════════════════════════════════════════
+ADULTS (18–64 years):
+- Minimum: 150–300 minutes of moderate-intensity aerobic activity/week
+  OR 75–150 minutes vigorous-intensity aerobic activity/week
+- Muscle-strengthening: ≥2 days/week (resistance training, yoga, bodyweight exercises)
+- Reduce sedentary time; any physical activity better than none
+
+OLDER ADULTS (65+):
+- Same as adults above; add balance exercises ≥3 days/week (fall prevention)
+- Multicomponent physical activity prioritized
+
+CHILDREN AND ADOLESCENTS (5–17 years):
+- ≥60 minutes moderate-to-vigorous physical activity daily
+- Mostly aerobic; muscle and bone strengthening ≥3 days/week
+- Limit recreational screen time to <2 hours/day (WHO, AAP)
+
+BENEFITS: Reduces risk of cardiovascular disease (35% reduction), Type 2 DM (40%), depression (30%), breast/colon cancer, obesity; improves sleep quality, bone health, mental health, cognitive function
+
+════════════════════════════════════════
+MENTAL HEALTH GUIDELINES
+════════════════════════════════════════
+WHO promotes mental health as integral to overall health — "No health without mental health."
+
+PROMOTING MENTAL WELL-BEING:
+- Regular physical activity (reduces depression and anxiety)
+- Adequate sleep: Adults 7–9 hours/night; teenagers 8–10 hours; children 9–12 hours
+- Social connections and support networks
+- Stress management techniques: Mindfulness meditation, deep breathing, progressive muscle relaxation
+- Healthy diet (brain health)
+- Limiting alcohol and avoiding illicit drugs
+- Meaningful occupation and purpose
+
+MENTAL HEALTH FIRST AID (mhGAP):
+Key principles for helping someone in mental health crisis:
+1. Listen actively and without judgment
+2. Reassure and provide information
+3. Encourage professional help
+4. Avoid harmful advice (e.g., "just cheer up")
+5. Do not leave alone if at risk of self-harm
+6. Contact crisis services if immediate danger
+
+STIGMA REDUCTION: Mental health conditions are medical conditions. Seeking help is a sign of strength, not weakness.
+
+Pakistan Mental Health Resources:
+- Umang helpline: 0311-7786264
+- Rozan counseling helpline: 051-2890505
+
+════════════════════════════════════════
+MATERNAL AND CHILD HEALTH (MCH)
+════════════════════════════════════════
+ANTENATAL CARE (ANC):
+WHO recommends ≥8 antenatal contacts during pregnancy:
+- First contact: Before 12 weeks — booking visit, blood tests (CBC, blood group, Rh, hepatitis B, syphilis, HIV), urine dipstick, blood pressure
+- Routine monitoring: Weight, BP, fetal growth, fetal heart rate at each visit
+- Supplements: Folic acid 400mcg from preconception to 12 weeks (5mg if high risk); Iron + folic acid throughout pregnancy; Calcium supplementation in high-risk areas; Vitamin D
+- Ultrasound: Dating scan 11–14 weeks; anomaly scan 18–22 weeks
+- Gestational diabetes screening: 24–28 weeks (OGTT)
+- Group B Streptococcus swab: 35–37 weeks
+- Tetanus toxoid vaccination: Td booster if not previously immunized
+
+DANGER SIGNS IN PREGNANCY (seek immediate care):
+- Severe headache + visual disturbance + upper abdominal pain (pre-eclampsia/eclampsia)
+- Heavy vaginal bleeding (antepartum haemorrhage)
+- Absent or significantly reduced fetal movements
+- Rupture of membranes before 37 weeks
+- Severe vomiting preventing adequate nutrition
+- Fever >38°C
+- Signs of DVT (leg swelling, pain, warmth)
+- Difficulty breathing
+
+POSTNATAL CARE:
+- Breastfeeding: Exclusive breastfeeding for first 6 months (WHO recommendation)
+- Newborn: Vitamin K injection at birth; newborn screening; BCG and Hep B within 24 hours
+- Postnatal depression: Screen all mothers with Edinburgh Postnatal Depression Scale; treat promptly
+
+════════════════════════════════════════
+SEXUAL AND REPRODUCTIVE HEALTH
+════════════════════════════════════════
+CONTRACEPTION:
+- Combined oral contraceptive pill (COCP): >99% effective if taken correctly. Reduces menstrual pain and PMS. Contraindicated in: smokers over 35, history of VTE/stroke/MI, migraine with aura, liver disease, uncontrolled hypertension.
+- Progestogen-only pill (mini-pill): Suitable for breastfeeding women, those who cannot take estrogen.
+- IUCD (Copper IUD): Non-hormonal, 10-year protection, also used as emergency contraception within 5 days.
+- Injectable (DMPA/Depo-Provera): 3-monthly injection, convenient.
+- Condom: Only contraceptive method that also protects against STIs.
+- Emergency contraception (morning-after pill/Plan B): Levonorgestrel 1.5mg single dose ideally within 72 hours (effective up to 120 hours/5 days); reduces risk by ~85%.
+
+SEXUALLY TRANSMITTED INFECTIONS (STIs):
+Prevention: Consistent condom use; mutual monogamy; STI testing in new relationships; HPV vaccination; Hepatitis B vaccination; PrEP for HIV prevention in high-risk individuals.
+
+Common STIs and treatment:
+- Chlamydia: Azithromycin 1g single dose or doxycycline 100mg BD x 7 days
+- Gonorrhoea: Ceftriaxone 500mg IM single dose
+- Syphilis: Benzathine penicillin G (stage-dependent)
+- Herpes (HSV): Aciclovir 400mg TDS x 5 days (no cure but suppresses outbreaks)
+- HIV: Antiretroviral therapy (ART) — test + treat; undetectable = untransmittable (U=U)
+
+════════════════════════════════════════
+OCCUPATIONAL HEALTH
+════════════════════════════════════════
+ERGONOMICS (office/computer work):
+- Monitor at eye level, arm's length away
+- Chair adjusted so feet flat on floor, knees at 90°
+- Take a break every 30–60 minutes (20-20-20 rule for eyes: every 20 min, look at something 20 feet away for 20 seconds)
+- Stretch neck, shoulders, wrists regularly
+
+HEALTHCARE WORKER SAFETY:
+- Hand hygiene: 5 moments (WHO) — before patient contact, before aseptic procedure, after body fluid exposure, after patient contact, after touching patient surroundings
+- Standard precautions: Gloves, aprons, eye protection as appropriate for all patients
+- Needlestick protocol: Wash with soap and water; report immediately; HIV PEP within 72 hours if indicated
+- Vaccination: Hepatitis B, annual influenza, COVID-19
+
+════════════════════════════════════════
+TELEMEDICINE GUIDELINES
+════════════════════════════════════════
+Telemedicine is the delivery of healthcare services using electronic means over a distance.
+
+APPROPRIATE FOR TELEMEDICINE:
+- Follow-up consultations for stable chronic conditions (diabetes, hypertension review)
+- Mental health consultations (counseling, CBT)
+- Medication management and prescription renewals
+- Minor illness assessment (colds, UTIs, rashes)
+- Laboratory results interpretation
+- Health education and lifestyle counseling
+- Post-operative follow-up (when healing is expected)
+
+NOT APPROPRIATE FOR TELEMEDICINE (requires in-person visit):
+- Emergency situations (chest pain, stroke, trauma)
+- Physical examination required for diagnosis
+- Procedures (injections, biopsies, suturing)
+- New complex symptoms requiring full workup
+- Controlled substance prescriptions (in most jurisdictions)
+
+PATIENT RESPONSIBILITIES:
+- Have accurate medical history and medication list available
+- Good lighting and quiet environment for video consultations
+- Stable internet connection
+- Have blood pressure cuff, thermometer, pulse oximeter if possible for monitoring
+
+TELEMEDICINE DISCLAIMER:
+AI-based telemedicine tools like MedGPT provide general health information and preliminary guidance. They do not replace in-person medical evaluation by a qualified healthcare professional. Always consult a licensed physician for diagnosis and treatment decisions. In emergencies, call 1122 immediately.
