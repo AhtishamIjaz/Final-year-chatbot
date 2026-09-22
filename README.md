@@ -1,14 +1,7 @@
 # MedGPT — AI Medical Assistant Chatbot 🏥
 
 **Telemedicine Platform powered by RAG + LLM**
-
-> University of Azad Jammu & Kashmir, Muzaffarabad  
-> Department of Computer Science & Information Technology  
-> Undergraduate Final Year Project — Group 02  
-> **Menahil Khalid** (Roll No. 02) · **Rimsha Basharat** (Roll No. 12)
-
----
-
+   
 ## 🚀 How to Run (Step by Step)
 
 ### Step 1 — Prerequisites
