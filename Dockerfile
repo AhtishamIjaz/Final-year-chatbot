@@ -1,31 +1,27 @@
-# MedGPT Dockerfile
+# MedGPT — AI Medical Assistant Chatbot
 FROM python:3.11-slim
 
-# Set environment variables
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
 WORKDIR /app
 
-# Install system dependencies
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    build-essential \
-    curl \
-    && rm -rf /var/lib/apt/lists/*
+# Upgrade pip and install wheel
+RUN pip install --no-cache-dir --upgrade pip wheel
 
-# Copy and install python dependencies
+# Install dependencies directly with generous timeout and no-deps conflict
 COPY backend/requirements.txt /app/backend/requirements.txt
-RUN pip install --no-cache-dir -r /app/backend/requirements.txt
+RUN pip install --no-cache-dir --default-timeout=1000 -r /app/backend/requirements.txt
 
-# Copy project files
+# Copy all project files including existing pre-indexed ChromaDB
 COPY backend /app/backend
 COPY frontend /app/frontend
 COPY knowledge_base /app/knowledge_base
 
 WORKDIR /app/backend
 
-# Ingest knowledge base if not already present
-RUN python ingest.py
+# Verify ingestion / generate ChromaDB if not already present
+RUN python -c "import os; from pathlib import Path; p = Path('chroma_db'); exit(0 if p.exists() and any(p.iterdir()) else 1)" || python ingest.py
 
 EXPOSE 8000
 
